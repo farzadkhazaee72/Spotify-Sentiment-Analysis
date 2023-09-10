@@ -20,7 +20,7 @@ We start by exploring the dataset to understand its characteristics, distributio
 
 ### 2. Data Preprocessing
 
-#### 2.1 Text Cleaning
+ Text Cleaning
 
 We clean the text of each review using the following steps:
 - Convert text to lowercase
